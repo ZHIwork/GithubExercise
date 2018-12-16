@@ -1,3 +1,4 @@
+#This is the sample codes for quantum mechanics homework.
 import matplotlib.pyplot as plt
 
 def getOMGA(i, j, k):
